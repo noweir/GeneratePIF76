@@ -10,7 +10,8 @@ This repo has scripts for generating custom PIF config files to use with PIF v14
 
 - You first need to clone the repo and navigate to it:
   ```bash
-  git clone https://github.com/juleast/GeneratePIF.git
+  git clone https://github.com/noweir/GeneratePIF76
+  
   # Navigate to the cloned directory
   cd GeneratePIF
   ```
